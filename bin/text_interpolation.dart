@@ -1,4 +1,4 @@
-import "package:text_interpolation/text_interpolate.dart";
+import "package:text_interpolate/text_interpolate.dart";
 
 void main() {
   var from = "Hello, World!";
